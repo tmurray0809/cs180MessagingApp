@@ -1,3 +1,6 @@
+Created by: Timothy Murray, Alston Lin, Anvi Kurade, and Shreyas Aryah
+
+
 Run and Compile
 Compile SocialMediaServer.java and Client.java and run them both.
 
