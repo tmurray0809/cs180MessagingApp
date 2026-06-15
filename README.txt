@@ -1,4 +1,6 @@
 Created by: Timothy Murray, Alston Lin, Anvi Kurade, and Shreyas Aryah
+CS180 Group Project
+
 
 
 Run and Compile
